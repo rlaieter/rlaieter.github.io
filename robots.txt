@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rlaieter.github.io/sitemap.rlaieter.gz
+Sitemap: https://rlaieter.github.io/app/sitemap.rlaieter.gz
+Sitemap: https://rlaieter.github.io/assets/sitemap.rlaieter.gz
+Sitemap: https://rlaieter.github.io/css/sitemap.rlaieter.gz
+Sitemap: https://rlaieter.github.io/data/sitemap.rlaieter.gz
+Sitemap: https://rlaieter.github.io/includes/sitemap.rlaieter.gz
+Sitemap: https://rlaieter.github.io/item/sitemap.rlaieter.gz
+Sitemap: https://rlaieter.github.io/src/sitemap.rlaieter.gz
